@@ -198,5 +198,3 @@ Durante a Imersão IA da Alura e do Google, você vai precisar desenvolver um De
 
 - [Conheça mais sobre Numpy](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python)
 - [O que é o Python Pandas?](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar)
-
-- [O que é Markdown](https://www.alura.com.br/artigos/como-trabalhar-com-markdown#:~:text=O que é Markdown%3F,mais complexas%2C como o HTML.)
